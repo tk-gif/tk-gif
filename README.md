@@ -5,7 +5,7 @@
 ---
 
 ## 🧠 About Me  
-I enjoy turning ideas into working projects. I have a strong grip on Python, HTML-CSS, javascript, C , C++. 
+I enjoy turning ideas into working projects. I have a strong grip on Python, HTML-CSS, javascript, C , C++, Java. 
 Currently exploring AI and machine learning by building things like chatbots, API-based apps, and prediction models.  
 
 I focus more on **practical learning** rather than just theory.
