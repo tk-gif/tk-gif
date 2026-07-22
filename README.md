@@ -38,9 +38,29 @@ CNN models that listens to Audio diles and converts them into the speech
 
 ## 🛠️ Tech Stack  
 
-- 💻 **Languages:** Python, C, C++  
-- 🤖 **AI/ML:** Machine Learning (Basics), Data Analysis  
-- 🔧 **Tools:** Git, GitHub, APIs  
+Languages:
+Java • Python • JavaScript • HTML5 • CSS3 • SQL
+
+Frontend:
+HTML5 • CSS3 • JavaScript • Responsive Design • Flexbox • CSS Grid • Font Awesome
+
+Backend:
+Python • FastAPI • REST APIs
+
+AI/ML:
+Scikit-learn • Pandas • NumPy • Matplotlib • Machine Learning • Data Preprocessing • Naive Bayes
+
+Databases:
+Supabase • MySQL
+
+Tools:
+Git • GitHub • VS Code • Jupyter Notebook • Google Colab
+
+Deployment:
+Vercel • Railway
+
+Other:
+OpenWeatherMap API • OpenAI API • Google Gemini API • IEEE Research Writing • GitHub Open Source
 
 ---
 
