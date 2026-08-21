@@ -81,6 +81,8 @@ OpenWeatherMap API • OpenAI API • Google Gemini API • IEEE Research Writin
 ## 📫 Connect  
 
 🔗 GitHub: https://github.com/tk-gif  
+🔗 Email : Taralkambarkar@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/taral-kambarkar-1295b635a/
 
 ---
 
