@@ -1,89 +1,139 @@
-# 👋 Hey, I'm Taral  
+# 👋 Hey, I'm Taral Kambarkar
 
-🚀 *AI/ML Explorer • Building real-world projects • Learning by doing*  
+🚀 **AI/ML Explorer • Python Developer • Building Real-World Projects**
 
----
+I enjoy turning ideas into working software and learning by building practical projects.
 
-## 🧠 About Me  
-I enjoy turning ideas into working projects. I have a strong grip on Python, HTML-CSS, javascript, C , C++, Java. 
-Currently exploring AI and machine learning by building things like chatbots, API-based apps, and prediction models.  
-
-I focus more on **practical learning** rather than just theory.
+I'm currently exploring **Artificial Intelligence, Machine Learning, Generative AI, and backend development**, while strengthening my fundamentals in programming and data structures.
 
 ---
 
-## ⚡ What I've Built  
+# 🤖 About Me
 
-### 🤖 Chatbot  
-A simple chatbot that interacts with users and generates responses  
-→ Learned how machines handle basic conversations  
-
-### 🌦️ Weather App  
-Real-time weather app using APIs  
-→ Worked with live data fetching and integration  
-
-### 📊 Sales Prediction  
-ML model to predict future product demand  
-→ Understood data patterns and prediction logic  
-
-### 📈 Data Visualization  
-Created charts to represent data clearly  
-→ Turned raw data into insights  
-
-### 🎙️Speech To Text Generation
-CNN models that listens to Audio diles and converts them into the speech
-→ Uses CNN to understand the layers and the patterns of the input
+* 💻 Passionate about building practical software and AI-powered applications
+* 🐍 Strong interest in Python and Machine Learning
+* 🧠 Exploring AI, Generative AI, and intelligent systems
+* 🌐 Building web applications and API-based projects
+* 📊 Interested in Data Science, visualization, and predictive models
+* 🚀 Learning through real-world projects rather than only theory
+* 🔬 Exploring research-oriented and open-source development
 
 ---
 
-## 🛠️ Tech Stack  
+# 🎯 Current Focus
 
-Languages:
-Java • Python • JavaScript • HTML5 • CSS3 • SQL
-
-Frontend:
-HTML5 • CSS3 • JavaScript • Responsive Design • Flexbox • CSS Grid • Font Awesome
-
-Backend:
-Python • FastAPI • REST APIs
-
-AI/ML:
-Scikit-learn • Pandas • NumPy • Matplotlib • Machine Learning • Data Preprocessing • Naive Bayes
-
-Databases:
-Supabase • MySQL
-
-Tools:
-Git • GitHub • VS Code • Jupyter Notebook • Google Colab
-
-Deployment:
-Vercel • Railway
-
-Other:
-OpenWeatherMap API • OpenAI API • Google Gemini API • IEEE Research Writing • GitHub Open Source
+* 🤖 Building AI/ML applications
+* 🧠 Strengthening Machine Learning fundamentals
+* 📊 Working with real-world datasets and predictive models
+* 🌐 Developing API-based applications with Python
+* 💬 Exploring Chatbots and Generative AI
+* 🎙️ Working with Speech-to-Text and audio-based ML
+* 🚀 Improving problem-solving and programming fundamentals
+* 🌍 Exploring open-source development
 
 ---
 
-## 📊 GitHub Stats  
+# 🛠️ Tech Stack
 
-![Stats](https://github-readme-stats.vercel.app/api?username=tk-gif&show_icons=true&theme=tokyonight)
+### 👨‍💻 Programming Languages
+
+`Python` `Java` `C` `C++` `JavaScript` `SQL`
+
+### 🤖 AI & Machine Learning
+
+`Machine Learning` `Scikit-learn` `NumPy` `Pandas` `Matplotlib` `Naive Bayes` `Data Preprocessing`
+
+### 🌐 Frontend Development
+
+`HTML5` `CSS3` `JavaScript` `Responsive Design` `Flexbox` `CSS Grid`
+
+### ⚙️ Backend & APIs
+
+`Python` `FastAPI` `REST APIs`
+
+### 🗄️ Databases
+
+`MySQL` `Supabase`
+
+### 🧰 Tools & Platforms
+
+`Git` `GitHub` `VS Code` `Jupyter Notebook` `Google Colab`
+
+### ☁️ Deployment & APIs
+
+`Vercel` `Railway` `OpenWeatherMap API` `OpenAI API` `Google Gemini API`
 
 ---
 
-## 🎯 Current Focus  
+# 🚀 Featured Projects
 
-- Strengthening AI/ML fundamentals  
-- Building more practical projects  
-- Exploring deeper concepts step by step  
+### 🤖 Smart Study Monitor
+
+A Python-based project focused on creating a smarter and more interactive study experience.
+
+### 🧠 Text Generation
+
+Exploring AI-based text generation and how machine learning models can generate human-like text.
+
+### 🎙️ Speech & Topic Recognition
+
+An AI/ML project working with audio data to convert speech into text and identify topics.
+
+### 🏦 Bank Management System
+
+A Java-based banking application implementing core banking operations and user management.
+
+### 🌦️ Weather Application
+
+A real-time weather application using APIs to retrieve and display weather information.
+
+### 📊 Sales Prediction
+
+A Machine Learning project focused on predicting future product demand from historical data.
 
 ---
 
-## 📫 Connect  
+# 📊 GitHub Stats
 
-🔗 GitHub: https://github.com/tk-gif  
-🔗 Email : Taralkambarkar@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/taral-kambarkar-1295b635a/
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tk-gif&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tk-gif&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
 ---
 
-✨ *Learning. Building. Improving — every day.*
+# 📈 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=tk-gif&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🧠 What I'm Learning
+
+```text
+Artificial Intelligence
+        ↓
+Machine Learning
+        ↓
+Generative AI
+        ↓
+Real-World Applications
+        ↓
+Open Source & Research
+```
+
+I'm continuously learning, experimenting, and turning new concepts into working projects.
+
+---
+
+# 📫 Connect With Me
+
+* 🐙 GitHub: [@tk-gif](https://github.com/tk-gif)
+
+---
+
+### ⭐ Learning. Building. Improving.
+
+> *The goal isn't to know everything — it's to keep building and getting better every day.*
