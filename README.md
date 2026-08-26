@@ -1,14 +1,13 @@
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=24\&duration=3000\&pause=1000\&color=00AEEF\&center=true\&vCenter=true\&width=700\&lines=Hi%2C+I+am+Taral+Kambarkar;AI%2FML+Engineer;Open+Source+Contributor;Generative+AI+Enthusiast;Building+Intelligent+Systems;Machine+Learning+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00AEEF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I+am+Taral+Kambarkar;AI%2FML+Engineer;Open+Source+Contributor;Generative+AI+Enthusiast;Building+Intelligent+Systems;Machine+Learning+Developer)](https://git.io/typing-svg)
 
 <br>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+<a href="https://www.linkedin.com/in/taral-kambarkar-1295b635a/">
   <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:YOUR-EMAIL@example.com">
+<a href="mailto:Taralkambarkar@gmail.com>
   <img src="https://img.shields.io/badge/EMAIL-EF4444?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="YOUR-RESUME-LINK">
@@ -16,7 +15,6 @@
 </a>
 
 </div>
-
 ---
 
 <h1 align="center">👨‍💻 About Me</h1>
