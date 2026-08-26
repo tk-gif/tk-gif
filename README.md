@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/taral-kambarkar-1295b635a/">
   <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:Taralkambarkar@gmail.com>
+<a href="mailto:taralkambarkar@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-EF4444?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="YOUR-RESUME-LINK">
