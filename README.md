@@ -1,158 +1,136 @@
 <div align="center">
 
-# 👋 Hey, I'm YOUR NAME
+# 👨‍💻 Taral Kambarkar
 
-### 💻 Developer • 🤖 AI/ML Enthusiast • 🚀 Builder
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;I+love+building+cool+things.;Always+learning+%26+experimenting." alt="Typing SVG" />
-
-<p>
-  <a href="https://github.com/YOUR-USERNAME">
-    <img src="https://img.shields.io/github/followers/YOUR-USERNAME?label=Followers&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/YOUR-USERNAME?tab=repositories">
-    <img src="https://img.shields.io/github/stars/YOUR-USERNAME?affiliations=OWNER&style=for-the-badge" />
-  </a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=24\&duration=3000\&pause=1000\&color=00AEEF\&center=true\&vCenter=true\&width=600\&lines=Artificial+Intelligence+%26+Machine+Learning;Building+Intelligent+Systems;Generative+AI+Enthusiast)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-<h2 align="center">🚀 About Me</h2>
-
-<div align="center">
-
-I'm a passionate developer who enjoys building projects,
-learning new technologies, and turning ideas into reality.
-
-🔭 Currently working on **[Your Current Project]**
-
-🌱 Currently learning **[Technology / Skill]**
-
-💡 Interested in **AI • Machine Learning • Web Development • Open Source**
-
-🎯 Goal: **Build useful things and keep improving every day**
-
-</div>
-
----
-
-<h2 align="center">🛠️ Tech Stack</h2>
-
-<div align="center">
-
-### 💻 Languages
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css" />
-
-### ⚙️ Frameworks & Libraries
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,flask,django,tailwind" />
-
-### 🤖 AI / Data
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
-
-### 🧰 Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,mongodb,mysql" />
-
-</div>
-
----
-
-<h2 align="center">🔥 Featured Projects</h2>
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-<h3 align="center">🚀 Project One</h3>
+<h1 align="center">👨‍💻 About Me</h1>
 
 <p align="center">
-A short description of your best project.
+
+I am an Artificial Intelligence and Machine Learning undergraduate passionate about building intelligent systems that solve real-world problems.
+
+I enjoy developing AI-powered applications using Machine Learning, Deep Learning, and Generative AI while continuously exploring modern AI technologies and contributing to open-source projects.
+
+I believe in writing clean, maintainable code and building projects that create meaningful impact.
+
 </p>
 
-<p align="center">
-<a href="https://github.com/YOUR-USERNAME/PROJECT-ONE">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" />
-</a>
-</p>
+---
 
-</td>
+<h1 align="center">🚀 Current Focus</h1>
 
-<td width="50%">
+<div align="center">
 
-<h3 align="center">🤖 Project Two</h3>
-
-<p align="center">
-A short description of another great project.
-</p>
-
-<p align="center">
-<a href="https://github.com/YOUR-USERNAME/PROJECT-TWO">
-<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" />
-</a>
-</p>
-
-</td>
-</tr>
-</table>
+* 🤖 Building AI-powered applications using Machine Learning and Generative AI
+* 🩺 Developing healthcare AI solutions inspired by Baymax
+* 📊 Working on predictive Machine Learning systems
+* 🌍 Contributing to Open Source projects
+* 📚 Strengthening Data Structures & Algorithms for placements
 
 </div>
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h1 align="center">🛠️ Tech Stack</h1>
+
+<h3 align="center">👨‍💻 Programming Languages</h3>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&hide_border=true&rank_icon=github" height="180" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&hide_border=true" height="180" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
 
 </div>
 
 ---
 
-<h2 align="center">🔥 Contribution Streak</h2>
+<h3 align="center">🤖 Artificial Intelligence & Machine Learning</h3>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR-USERNAME&hide_border=true" />
+<img src="https://img.shields.io/badge/Machine%20Learning-0F172A?style=flat-square" />
+<img src="https://img.shields.io/badge/Deep%20Learning-EF6C00?style=flat-square" />
+<img src="https://img.shields.io/badge/NLP-2563EB?style=flat-square" />
+<img src="https://img.shields.io/badge/Generative%20AI-7C3AED?style=flat-square" />
 
 </div>
 
 ---
 
-<h2 align="center">🐍 My Contributions</h2>
+<h3 align="center">📊 Data Science</h3>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake.svg" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" />
 
 </div>
 
 ---
 
-<h2 align="center">🌐 Connect With Me</h2>
+<h3 align="center">🌐 Frontend Development</h3>
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
 
-<a href="https://YOUR-PORTFOLIO.com">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-</a>
+</div>
 
-<a href="mailto:YOUR-EMAIL@example.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+---
+
+<h3 align="center">⚙️ Backend Development</h3>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+
+</div>
+
+---
+
+<h3 align="center">🗄️ Databases</h3>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-336791?style=flat-square" />
+
+</div>
+
+---
+
+<h3 align="center">🔄 Version Control</h3>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+
+</div>
+
+---
+
+<h3 align="center">💻 Development Environment</h3>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black" />
+<img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white" />
 
 </div>
 
@@ -160,10 +138,8 @@ A short description of another great project.
 
 <div align="center">
 
-### 💙 Thanks for visiting my profile!
+<img src="https://komarev.com/ghpvc/?username=Taral-Kambarkar&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
-⭐ Feel free to explore my repositories and connect with me.
-
-<img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&style=for-the-badge&color=blue" />
+### Thanks for visiting my profile! ⭐
 
 </div>
