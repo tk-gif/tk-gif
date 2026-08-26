@@ -1,8 +1,4 @@
-<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00AEEF&center=true&vCenter=true&width=700&lines=Hi%2C+I+am+Taral+Kambarkar;AI%2FML+Engineer;Open+Source+Contributor;Generative+AI+Enthusiast;Building+Intelligent+Systems;Machine+Learning+Developer)](https://git.io/typing-svg)
-
-</div>
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=24\&duration=3000\&pause=1000\&color=00AEEF\&center=true\&vCenter=true\&width=700\&lines=Hi%2C+I+am+Taral+Kambarkar;AI%2FML+Engineer;Open+Source+Contributor;Generative+AI+Enthusiast;Building+Intelligent+Systems;Machine+Learning+Developer)](https://git.io/typing-svg)
